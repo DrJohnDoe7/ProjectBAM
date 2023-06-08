@@ -171,3 +171,31 @@
     text-align: center;
     font-size: 18px;
 }
+
+@media screen and (min-width: 576px) {
+    
+    body {
+        background-color: brown;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    
+    body {
+        background-color: blue;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    
+    body {
+        background-color: beige;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    
+    body {
+        background-color: red;
+    }
+}
