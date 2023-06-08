@@ -1,0 +1,173 @@
+
+.publicidad{
+        display: flex;
+        justify-content: center;
+        margin-top: 25px;
+}
+
+.nav-item{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+.titulo{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 50px;
+    font-family: fantasy;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+.hombre{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 65px;
+}
+
+.card-text{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+}
+
+.card-body h1{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    font-size: 30px;
+    text-decoration: solid;
+    font-weight: 800;
+}
+
+
+.titulo2{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 50px;
+    font-family: fantasy;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+.mujeres{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 65px;
+}
+
+.card-text1{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+}
+
+
+.titulo3{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 50px;
+    font-family: fantasy;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+.niños{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 65px;
+    flex-wrap: wrap;
+
+}
+
+.card-text2{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    display: flex;
+
+}
+
+
+.titulo4{
+    margin-left: 150px;
+    font-size: 45px;
+    margin-top: 50px;
+
+}
+
+.parrafo{
+    margin-top: 60px;
+    margin-left: 35%;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    align-items: cenmter;
+    width: 500px;
+    word-spacing: 4px;
+
+}
+
+.lista{
+    margin-top: 40px;
+    margin-left: 35%;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+
+}
+
+.cuotas{
+    color: rgb(244, 118, 50);
+    font-family: cursive;
+    margin-top: 5px;
+
+
+}
+
+.boton{
+    background-color: rgb(244, 118, 50);
+    border-color: transparent;
+    border-radius: 6px;
+    font-size: 11px;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif
+
+}
+
+.endpage{
+    background-color: black;
+    margin-top: 25px;
+    display: flex;
+    justify-content:center;
+    padding: 15px;
+    text-decoration: none;
+    list-style: none;
+
+}
+
+
+.endpage li img{
+    width: 30px;
+    display: flex;
+    justify-content:end;
+    align-items: center;
+    margin-left: 40px;
+}
+
+.d-autor{
+    color: aliceblue;
+    display: flex;
+    justify-content: start;
+    text-align: center;
+    font-size: 18px;
+}
