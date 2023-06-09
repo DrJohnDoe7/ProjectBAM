@@ -2,13 +2,17 @@
 alert("suscribite a nuestra página web");
 
 function DatoU(){
-var Manolo = prompt("introduce tu código promocional: ");
-//alert("Felicidades tu código es " + Manolo); 
 
-if(Manolo = Manolo){
-    alert("Felicidades tu código es valido");
+var codigo = prompt("introduce tu código promocional");
 
+
+if(codigo == 2023){
+    alert("Felicidades tu código es valido")
+
+}else{
+    alert("Tu código es inválido");
 }
+
 }
 
 
