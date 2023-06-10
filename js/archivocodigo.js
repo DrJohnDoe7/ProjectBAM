@@ -7,7 +7,7 @@ var codigo = prompt("introduce tu código promocional");
 
 
 if(codigo == 2023){
-    alert("Felicidades tu código es valido")
+    alert("Felicidades tenes un 25% en tu calzado")
 
 }else{
     alert("Tu código es inválido");
