@@ -20,6 +20,7 @@ Botón con cupón de descuento (código 2023);
 - js;
 - css;
 - html;
+- Boostrap.
 
 
 ##### Algunas funciones en acción
