@@ -10,7 +10,6 @@
 
 }
 
-
 .titulo{
     display: flex;
     justify-items: center;
@@ -22,10 +21,11 @@
     border-radius: 5px;
 }
 
-.hombre{
+.HMÑ{
     display: flex;
     justify-content: space-between;
     margin-top: 65px;
+    flex-wrap: wrap;
 }
 
 .card-text{
@@ -42,59 +42,6 @@
     text-decoration: solid;
     font-weight: 800;
 }
-
-
-.titulo2{
-    display: flex;
-    justify-items: center;
-    justify-content: center;
-    text-align: center;
-    font-size: 50px;
-    font-family: fantasy;
-    margin-top: 30px;
-    border-radius: 5px;
-}
-
-.mujeres{
-    display: flex;
-    justify-content: space-between;
-    margin-top: 65px;
-}
-
-.card-text1{
-    font-size: 20px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-style: normal;
-}
-
-
-.titulo3{
-    display: flex;
-    justify-items: center;
-    justify-content: center;
-    text-align: center;
-    font-size: 50px;
-    font-family: fantasy;
-    margin-top: 30px;
-    border-radius: 5px;
-}
-
-.niños{
-    display: flex;
-    justify-content: space-between;
-    margin-top: 65px;
-    flex-wrap: wrap;
-
-}
-
-.card-text2{
-    font-size: 20px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-style: normal;
-    display: flex;
-
-}
-
 
 .titulo4{
     margin-left: 150px;
