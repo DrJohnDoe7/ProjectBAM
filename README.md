@@ -2,6 +2,7 @@
 ##### Tienda Online de Venta de Calzados
 
 :tw-1f45e: :tw-1f45f: :tw-1f460: :tw-1f461: :tw-1f462: :tw-1f45e:
+
 ###### Introducción.
 Este proyecto trata sobre una tienda virtual de venta de calzados, en el cual los usuarios pueden seleccionar productos ofertados e interactuar y comunicarse con el equipo de ventas, como también acceder cupones de descuentos.
 <p>
